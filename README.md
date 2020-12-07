@@ -1,4 +1,5 @@
 https://covid19-stats-f2a38.web.app/
+
 React Project for worldwide covid cases/recovers/deaths stats
 
 For any questions feel free to contact me :)
